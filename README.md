@@ -1,3 +1,27 @@
+# React Random Quote Machine
+
+Viewable at [this link](https://sam-jdnz2018.github.io/random-quote-react/).
+
+This project is a React based interpretation of the 'Build a Random Quote Machine' project from the 'Front-End Libraries' section of FreeCodeCamp's curriculum. It was built from a version I made [on CodePen](https://codepen.io/sam_donaldson2018/pen/OqBvvq). The original design document for this project can be [found of FreeCodeCamp's website](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine).
+
+## Contributors
+
+* sam-jdNZ2018
+
+## Technologies
+
+Built using:
+* HTML, CSS, JavaScript
+* React 16.8.6
+* React-dom 16.8.6
+* create-react-app (For allowing code to be written in Babel)
+
+## Acknowledgements
+
+Thomas Alleman (FreeCodeCamp user talleman21) for assistance in setting up create-react-app.
+
+The following information was generated from the Create React App tool.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
