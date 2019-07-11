@@ -1,5 +1,5 @@
 body{
-   display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -40,7 +40,7 @@ body{
 #text{
   text-align: center;
   font-size: 25px;
-   font-family: Cinzel;
+  font-family: Cinzel,sans-serif;
   font-weight: bold;
 }
 
