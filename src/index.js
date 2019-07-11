@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './style.css';
-import QuoteMachine from './script';
+import QuoteMachine from './quote-machine';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<QuoteMachine />, document.getElementById('main'));
