@@ -1,4 +1,5 @@
-const render = ReactDOM;
+import React from 'react';
+
 const QUOTES = [
   [
     "If you don't like the road you're walking, start paving another one.",
@@ -109,4 +110,4 @@ class QuoteMachine extends React.Component {
   }
 }
 
-ReactDOM.render(<QuoteMachine />, document.getElementById("main"));
+export default QuoteMachine;
