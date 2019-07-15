@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56cf2851e0fdd599cdd2744aacc18148",
+    "revision": "cac98739878753d98ffc2b38e7a7bfbf",
     "url": "/random-quote-react/index.html"
   },
   {
